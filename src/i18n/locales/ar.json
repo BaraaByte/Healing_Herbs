@@ -1,0 +1,120 @@
+{
+  "common": {
+    "appName": "أعشاب الشفاء",
+    "home": "الرئيسية",
+    "about": "عن التطبيق",
+    "contact": "تواصل معنا",
+    "logout": "تسجيل الخروج",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "language": "اللغة",
+    "arabic": "العربية",
+    "english": "English"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "recipes": "الوصفات",
+    "questions": "الأسئلة",
+    "herbs": "الأعشاب",
+    "appointments": "المواعيد",
+    "medicalTests": "التحاليل الطبية",
+    "chatbot": "المساعد",
+    "dashboard": "لوحة التحكم",
+    "community": "المجتمع"
+  },
+  "recipes": {
+    "title": "الوصفات",
+    "addRecipe": "إضافة وصفة",
+    "description": "الوصف",
+    "ingredients": "المكونات",
+    "instructions": "طريقة التحضير",
+    "createSuccess": "تم إنشاء الوصفة بنجاح!",
+    "deleteSuccess": "تم حذف الوصفة بنجاح!",
+    "editSuccess": "تم تعديل الوصفة بنجاح!",
+    "viewRecipes": "عرض الوصفات",
+    "noRecipes": "لا توجد وصفات",
+    "authorRequired": "يجب عليك تسجيل الدخول لإنشاء وصفات",
+    "loginToPost": "يرجى تسجيل الدخول أو إنشاء حساب أولاً لنشر الوصفات"
+  },
+  "questions": {
+    "title": "الأسئلة",
+    "addQuestion": "إضافة سؤال",
+    "answer": "الإجابة",
+    "answers": "الإجابات",
+    "questionTitle": "عنوان السؤال",
+    "questionBody": "تفاصيل السؤال",
+    "addAnswer": "إضافة إجابة",
+    "createSuccess": "تم نشر السؤال بنجاح!",
+    "answerSuccess": "تم إضافة الإجابة بنجاح!",
+    "deleteSuccess": "تم حذف السؤال بنجاح!",
+    "noQuestions": "لا توجد أسئلة",
+    "authorRequired": "يجب عليك تسجيل الدخول لطرح الأسئلة",
+    "loginToPost": "يرجى تسجيل الدخول أو إنشاء حساب أولاً لطرح الأسئلة"
+  },
+  "answers": {
+    "title": "الإجابات",
+    "noAnswers": "لا توجد إجابات حتى الآن",
+    "loginToPost": "يرجى تسجيل الدخول أو إنشاء حساب أولاً لإضافة إجابات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "age": "العمر",
+    "loginSuccess": "أهلاً بعودتك!",
+    "registerSuccess": "تم إنشاء الحساب بنجاح!",
+    "logoutSuccess": "تم تسجيل الخروج بنجاح",
+    "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+    "emailExists": "البريد الإلكتروني مسجل بالفعل",
+    "requiredField": "هذا الحقل مطلوب",
+    "passwordMismatch": "كلمات المرور غير متطابقة",
+    "noAccount": "ليس لديك حساب؟",
+    "alreadyAccount": "هل لديك حساب بالفعل؟"
+  },
+  "errors": {
+    "error": "خطأ",
+    "success": "نجح",
+    "warning": "تحذير",
+    "info": "معلومة",
+    "loadingError": "خطأ في تحميل البيانات",
+    "tryAgain": "حاول مرة أخرى",
+    "goHome": "الذهاب للرئيسية",
+    "notFound": "الصفحة غير موجودة"
+  },
+  "buttons": {
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "close": "إغلاق",
+    "loading": "جاري التحميل..."
+  },
+  "appointments": {
+    "title": "المواعيد",
+    "addAppointment": "حجز موعد",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "location": "الموقع",
+    "type": "نوع الموعد",
+    "notes": "ملاحظات",
+    "createSuccess": "تم حجز الموعد بنجاح!",
+    "deleteSuccess": "تم إلغاء الموعد بنجاح!",
+    "noAppointments": "لا توجد مواعيد محجوزة"
+  },
+  "medicalTests": {
+    "title": "التحاليل الطبية",
+    "addTest": "إضافة تحليل",
+    "testName": "اسم التحليل",
+    "testDate": "تاريخ التحليل",
+    "results": "النتائج",
+    "createSuccess": "تم إضافة التحليل الطبي بنجاح!",
+    "deleteSuccess": "تم حذف التحليل الطبي بنجاح!",
+    "noTests": "لا توجد تحاليل طبية مسجلة"
+  }
+}
